@@ -1,0 +1,22 @@
+.judul {
+  font-size: 50px;
+  color: blue;
+  text-align: center;
+  border: solid black;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+.itb {
+  font-size: 30px;
+  margin-left: 350px;
+}
+
+.Unpad {
+  font-size: 30px;
+  margin-left: 350px;
+  margin-top: 350px;
+}
